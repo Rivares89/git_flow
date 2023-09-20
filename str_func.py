@@ -7,3 +7,4 @@ def title_str(stroka):
     """Возвращает заглавные первые буквы"""
     b = stroka.title()
     return b
+
